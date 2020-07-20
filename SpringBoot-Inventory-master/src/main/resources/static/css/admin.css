@@ -1,0 +1,9 @@
+
+.page{
+	display:none;
+	position:fixed;
+}
+
+.active{
+	display:block;
+}
